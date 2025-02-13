@@ -1,0 +1,28 @@
+/* footer.component.css */
+.app-footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .app-footer .footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .app-footer .social-links {
+    margin-top: 10px;
+  }
+  
+  .app-footer .social-links a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .app-footer .social-links a:hover {
+    text-decoration: underline;
+  }
+  
