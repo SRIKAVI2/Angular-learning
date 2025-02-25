@@ -35,7 +35,7 @@ export class TasksComponent {
   },]
  
   get selectedUserTask(){
-    return this.tasks.filter = this.;
+    return ;
   }
   
 }
